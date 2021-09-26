@@ -1,3 +1,10 @@
-# svelte app
+## What is this?
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+
+ - This website was made using svelte, but used (default) svelte instead of (svelteKit).
+
+
+##### yea, THIS REPO IS ARCHIVED
+New website: https://github.com/dhairy-online/website
+
+TQ
